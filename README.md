@@ -1,4 +1,4 @@
-# Ejercicio de evaluación intermedia modulo 3 (React)
+# Ejercicio de evaluación intermedia módulo 3 (React)
 
 ¡Hola 👋🏽!
 
