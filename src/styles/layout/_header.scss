@@ -1,0 +1,16 @@
+.header {
+  font-family: "Roboto Mono", monospace;
+  background-color: #9973b2;
+  height: 160px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  &__title {
+    font-size: 50px;
+    font-weight: 900;
+  }
+  &__img {
+    height: 150px;
+    margin: 0 0 25px 15px;
+  }
+}

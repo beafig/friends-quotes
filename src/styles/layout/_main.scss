@@ -1,0 +1,39 @@
+.main {
+  padding: 20px;
+  font-family: "Roboto Mono", monospace;
+  &__form {
+    border: solid 2px #9973b2;
+    display: flex;
+    flex-direction: column;
+    &--label {
+      padding-left: 5px;
+      font-weight: 600;
+    }
+    &--input {
+      margin: 5px 0 10px 5px;
+      height: 25px;
+    }
+    &--title {
+      font-size: 25px;
+      font-weight: 600;
+      padding: 5px;
+    }
+    &--btn {
+      width: 150px;
+      height: 25px;
+      margin: 5px 0 5px 65px;
+      background-color: #9973b2;
+    }
+    &--errorMsg {
+      margin: 5px;
+    }
+  }
+  &__list {
+    &--each {
+      margin: 10px 0;
+    }
+    &--eachCharacter {
+      color: #9973b2;
+    }
+  }
+}
