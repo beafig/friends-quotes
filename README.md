@@ -24,7 +24,7 @@ Para crear este proyecto me han facilitado un API (https://beta.adalab.es/curso-
 En el ejercicio hay 3 tipos de ficheros y carpetas:
 
 - Los 📋 ficheros que están sueltos en la raíz del repositorio, como package.json... Son para la configuración del proyecto.
-- La 🗂️ carpeta `src/`: son los ficheros con lo que he estado trabajando (components, images, services y styles)
+- La 🗂️ carpeta `src/`: son los ficheros con lo que he estado trabajando (components, images, services y styles).
 - La 📂 carpeta `docs/`, que es generada gracias a React. En ella se encuentra la versión de producción, que es la que voy a mostrar al mundo 🌍.
 
 Espero que te haya gustado mi trabajo, si quieres saber un poco más o tienes cualquier consejo para mejorar mi código no dudes en ponerte en contacto conmigo. [LinkedIn](https://www.linkedin.com/in/bea-figueroa/)
